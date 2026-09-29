@@ -1,0 +1,18 @@
+{
+  "sensor_id": {
+    "1": "S-102",
+    "2": "S-103"
+  },
+  "lab_room": {
+    "1": "Room 108",
+    "2": "Room 312"
+  },
+  "owner": {
+    "1": "Dr. Chen",
+    "2": "Dr. Aris"
+  },
+  "days_since_calibration": {
+    "1": 210,
+    "2": 195
+  }
+}
